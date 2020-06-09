@@ -75,7 +75,7 @@ html {
   }
 }
 
-/*@-ms-keyframes animar_edificios {
+@-ms-keyframes animar_edificios {
   from {
     background-position: 0 0;
   }
@@ -85,7 +85,7 @@ html {
   }
 }
 
-@-moz-keyframes animar_edificios {
+/*@-moz-keyframes animar_edificios {
   from {
     background-position: 0 0;
   }
