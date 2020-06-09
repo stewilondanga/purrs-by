@@ -40,22 +40,22 @@ html {
   margin-top: 2em;
 }
 
-/*#edificios{
-    background: url('http://evasantos.com/ilustraciones/gatoCity/edificiosOne.svg');
-    height: 500px;
-    width: 1325px;
-    z-index: -10;
-    top: 6.5em;
-    background-position: 0px 0px;
-    background-repeat: repeat-x;
-    -webkit-animation: animar_edificios 120s linear infinite;
-    -ms-animation: animar_edificios 120s linear infinite;
-    -moz-animation: animar_edificios 120s linear infinite;
-    position: absolute;
-    }
+#edificios {
+  background: url('http://evasantos.com/ilustraciones/gatoCity/edificiosOne.svg');
+  height: 500px;
+  width: 1325px;
+  z-index: -10;
+  top: 6.5em;
+  background-position: 0px 0px;
+  background-repeat: repeat-x;
+  -webkit-animation: animar_edificios 120s linear infinite;
+  -ms-animation: animar_edificios 120s linear infinite;
+  -moz-animation: animar_edificios 120s linear infinite;
+  position: absolute;
+}
 
 /* Animacion edificios */
-@keyframes animar_edificios {
+/*@keyframes animar_edificios {
   from {
     background-position: 0 0;
   }
