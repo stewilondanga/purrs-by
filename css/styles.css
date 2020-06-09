@@ -119,7 +119,7 @@ html {
   bottom: 0px;
 }
 
-/*#gato {
+#gato {
   background: url('http://evasantos.com/ilustraciones/gatoCity/gatito.svg');
   height: 297px;
   width: 507.5px;
@@ -132,7 +132,7 @@ html {
   animation: sprite-animation 1.2s steps(16, end) infinite;
 }
 
-@-webkit-keyframes sprite-animation {
+/*@-webkit-keyframes sprite-animation {
   from {
     background-position: 0 0;
   }
