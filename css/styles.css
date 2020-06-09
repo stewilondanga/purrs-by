@@ -142,7 +142,7 @@ html {
   }
 }
 
-/*@-ms-keyframes sprite-animation {
+@-ms-keyframes sprite-animation {
   from {
     background-position: 0 0;
   }
@@ -152,7 +152,7 @@ html {
   }
 }
 
-@-moz-keyframes sprite-animation {
+/*@-moz-keyframes sprite-animation {
   from {
     background-position: 0 0;
   }
