@@ -85,7 +85,7 @@ html {
   }
 }
 
-/*@-moz-keyframes animar_edificios {
+@-moz-keyframes animar_edificios {
   from {
     background-position: 0 0;
   }
@@ -95,7 +95,7 @@ html {
   }
 }
 
-#luna {
+/*#luna {
   width: 6em;
   height: 6em;
   -moz-border-radius: 50%;
