@@ -65,7 +65,7 @@ html {
   }
 }
 
-/*@-webkit-keyframes animar_edificios {
+@-webkit-keyframes animar_edificios {
   from {
     background-position: 0 0;
   }
@@ -75,7 +75,7 @@ html {
   }
 }
 
-@-ms-keyframes animar_edificios {
+/*@-ms-keyframes animar_edificios {
   from {
     background-position: 0 0;
   }
