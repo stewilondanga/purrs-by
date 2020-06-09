@@ -29,18 +29,18 @@ html {
   margin-top: 2em;
 }
 
-/*#cielo{
-    border-radius: 16px;
-    width: 1325px;
-    height: 500px;
-    background: linear-gradient(to bottom,  #0B4C5F 0%,#04B4AE 52%,#0c0207 100%);
-    position: absolute;
-    z-index: -30;
-    top: 0;
-    margin-top: 2em;
-    }
+#cielo {
+  border-radius: 16px;
+  width: 1325px;
+  height: 500px;
+  background: linear-gradient(to bottom, #0B4C5F 0%, #04B4AE 52%, #0c0207 100%);
+  position: absolute;
+  z-index: -30;
+  top: 0;
+  margin-top: 2em;
+}
 
-#edificios{
+/*#edificios{
     background: url('http://evasantos.com/ilustraciones/gatoCity/edificiosOne.svg');
     height: 500px;
     width: 1325px;
