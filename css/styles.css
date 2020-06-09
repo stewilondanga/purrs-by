@@ -162,7 +162,7 @@ html {
   }
 }
 
-/*@keyframes sprite-animation {
+@keyframes sprite-animation {
   from {
     background-position: 0 0;
   }
@@ -172,7 +172,7 @@ html {
   }
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }
