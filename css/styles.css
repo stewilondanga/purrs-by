@@ -132,7 +132,7 @@ html {
   animation: sprite-animation 1.2s steps(16, end) infinite;
 }
 
-/*@-webkit-keyframes sprite-animation {
+@-webkit-keyframes sprite-animation {
   from {
     background-position: 0 0;
   }
@@ -142,7 +142,7 @@ html {
   }
 }
 
-@-ms-keyframes sprite-animation {
+/*@-ms-keyframes sprite-animation {
   from {
     background-position: 0 0;
   }
