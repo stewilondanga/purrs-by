@@ -20,16 +20,16 @@ html {
   background-color: white;
 }
 
-/*#marco{
-    width: 1325px;
-    height: 500px;
-    margin: 0 auto;
-    overflow: hidden;
-    border-radius: 16px;
-    margin-top: 2em;
-    }
+#marco {
+  width: 1325px;
+  height: 500px;
+  margin: 0 auto;
+  overflow: hidden;
+  border-radius: 16px;
+  margin-top: 2em;
+}
 
-#cielo{
+/*#cielo{
     border-radius: 16px;
     width: 1325px;
     height: 500px;
